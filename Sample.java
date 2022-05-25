@@ -5,6 +5,6 @@ public class Sample {
 
         System.out.println(i*i);
         i=6;
-        
+         
     }
 }
